@@ -1,24 +1,10 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+Toy App developed by Jackson Leite using the Rails Tutorial (railstutorial.org).
 
-Things you may want to cover:
+Some personal changes were added to the original project.
 
-* Ruby version
 
-* System dependencies
+August, 31th, 2016 Anno Domini.
 
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
+Jackson Leite
